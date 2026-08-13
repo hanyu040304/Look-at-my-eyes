@@ -4,6 +4,8 @@ Look At My Eyes 是一个原生 iOS 合影相机 App：先从短连拍里寻找�
 
 Look At My Eyes is a native iOS group-photo camera app. It first searches a short burst for a real frame where everyone has open eyes; if no perfect frame exists, it locally repairs only the closed-eye regions with Vision and Core Image.
 
+<img width="793" height="1983" alt="335" src="https://github.com/user-attachments/assets/dd87a15c-066d-4660-aec5-606009571a04" />
+
 ## 简短介绍 / Short Description
 
 ```text
