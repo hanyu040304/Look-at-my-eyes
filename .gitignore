@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build products
+DerivedData/
+build/
+*.ipa
+*.xcarchive
+*.dSYM
+
+# Swift / SPM local caches
+.build/
+.swiftpm/
+.swift-home/
+.swift-module-cache/
+
+# Local Flutter tooling and caches kept out of this native iOS repo
+.flutter-config/
+.flutter-home/
+.flutter-sdk/
+.flutter-sdk-tmp/
+.pub-cache/
+
+# Flutter generated files, in case old prototypes are restored locally
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# CocoaPods / Carthage, if added later
+Pods/
+Carthage/Build/
